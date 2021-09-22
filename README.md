@@ -1,6 +1,6 @@
 # Boris Bikes
 
-Boris Bikes is a challenge meant to emulate the Santander Cycles bike hire service operating in London. The challenges help us practice TDD with Rspec.
+Boris Bikes is a pair programming challenge meant to emulate the Santander Cycles bike hire service operating in London. The challenges help us practice TDD with Rspec.
 
 
 ## Challenges
