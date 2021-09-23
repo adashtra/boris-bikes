@@ -16,11 +16,11 @@ Boris Bikes is a pair programming challenge meant to emulate the Santander Cycle
 - [x] Building a bike
 - [x] Making Docking Stations get Bikes
 - [x] Using Instance Variables
-- [ ] Raising Exceptions
-- [ ] Limiting Capacity
-- [ ] Using Complex Attributes
-- [ ] The Single Responsibility Principle
-- [ ] Removing Magic Numbers
+- [x] Raising Exceptions
+- [x] Limiting Capacity
+- [x] Using Complex Attributes
+- [x] The Single Responsibility Principle
+- [x] Removing Magic Numbers
 - [ ] Initialisation Defaults
 - [ ] Dealing with Broken Bikes
 - [ ] Isolating Tests with Doubles
